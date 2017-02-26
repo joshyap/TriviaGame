@@ -1,0 +1,52 @@
+body {
+	/*background-image: url("../images/final_destination.jpg");*/
+	background-image: url("../images/ssbfd.jpg");
+	background-size: cover;
+	color: white;
+	font-family: 'Bungee', cursive;
+	font-weight: bold;
+	letter-spacing: 3px;
+
+}
+
+h1 {
+	text-align:center;
+	font-family: 'Bungee', cursive;
+	font-weight: bold;
+	letter-spacing: 5px;
+	color: white;
+}
+.content {
+	text-align: center;
+	visibility:hidden;	
+	font-family: 'Bungee', cursive;
+	font-weight: bolder;
+	letter-spacing: 3px;
+	margin-top: 5%;
+}
+
+.background-box {
+	/*background-color:white;*/
+	opacity:.85;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	
+}
+
+.endScreen {
+	text-align: center;
+	/*background-color:white;*/
+	opacity:.85;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;
+	visibility:hidden;
+	font-family: 'Bungee', cursive;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+
+#startGame {
+	margin-top: 40%;
+}
